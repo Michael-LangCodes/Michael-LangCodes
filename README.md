@@ -24,11 +24,5 @@
 ### ⚙️ &nbsp;GitHub Analytics 
 
 <p align="center">
-  <a href="https://github.com/Michael-LangCodes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-LangCodes&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-LangCodes&theme=dark&hide_border=true"/>
 </p>
