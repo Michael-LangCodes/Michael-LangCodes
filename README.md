@@ -1,7 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;B.Eng (ME) Graduated May 2024 from **UW - Madison**.   
-🚀 &nbsp;Currently building **EngCalc – a One-Stop Location for All Mechanical Engineering Calculations/Learning**.  
 🧠 &nbsp;Focused on writing clean, scalable, production-ready code.  
 🌱 &nbsp;Learning **JavaScript, Git/GitHub workflows, Databases, and Modern Frontend frameworks**.  
 🤝 &nbsp;Open to collaborating on  **open-source projects, automation tools, and developer communities**.  
